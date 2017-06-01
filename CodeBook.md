@@ -27,27 +27,27 @@ Signals (that were measured) were used to estimate variables of the feature vect
 + Time Body Gyroscope  Magnitude -std()
 + Time Body Gyroscope Jerk Magnitude -mean()
 + Time Body Gyroscope Jerk Magnitude -std()
-+ Freqency qency Body Accelerometer -mean()-XYZ
-+ Freqency qency Body Accelerometer -std()-XYZ
-+ Freqency qency Body Accelerometer -mean Freqency q()-XYZ
-+ Freqency qency Body Accelerometer Jerk-mean()-XYZ
-+ Freqency qency Body Accelerometer Jerk-std()-XYZ
-+ Freqency qency Body Accelerometer Jerk-mean Freqency q()-XYZ
-+ Freqency qency Body Gyroscope -mean()-XYZ
-+ Freqency qency Body Gyroscope -std()-XYZ
-+ Freqency qency Body Gyroscope -mean Freqency q()-XYZ
-+ Freqency qency Body Accelerometer  Magnitude -mean()
-+ Freqency qency Body Accelerometer  Magnitude -std()
-+ Freqency qency Body Accelerometer  Magnitude -mean Freqency q()
-+ Freqency qency Body Accelerometer Jerk Magnitude -mean()
-+ Freqency qency Body Accelerometer Jerk Magnitude -std()
-+ Freqency qency Body Accelerometer Jerk Magnitude -mean Freqency q()
-+ Freqency qency Body Gyroscope  Magnitude -mean()
-+ Freqency qency Body Gyroscope  Magnitude -std()
-+ Freqency qency Body Gyroscope  Magnitude -mean Freqency q()
-+ Freqency qency Body Gyroscope Jerk Magnitude -mean()
-+ Freqency qency Body Gyroscope Jerk Magnitude -std()
-+ Freqency qency Body Gyroscope Jerk Magnitude -mean Freqency q()
++ Freqency Body Accelerometer -mean()-XYZ
++ Freqency Body Accelerometer -std()-XYZ
++ Freqency Body Accelerometer -mean Freqency q()-XYZ
++ Freqency Body Accelerometer Jerk-mean()-XYZ
++ Freqency Body Accelerometer Jerk-std()-XYZ
++ Freqency Body Accelerometer Jerk-mean Freqency q()-XYZ
++ Freqency Body Gyroscope -mean()-XYZ
++ Freqency Body Gyroscope -std()-XYZ
++ Freqency Body Gyroscope -mean Freqency q()-XYZ
++ Freqency Body Accelerometer  Magnitude -mean()
++ Freqency Body Accelerometer  Magnitude -std()
++ Freqency Body Accelerometer  Magnitude -mean Freqency q()
++ Freqency Body Accelerometer Jerk Magnitude -mean()
++ Freqency Body Accelerometer Jerk Magnitude -std()
++ Freqency Body Accelerometer Jerk Magnitude -mean Freqency q()
++ Freqency Body Gyroscope  Magnitude -mean()
++ Freqency Body Gyroscope  Magnitude -std()
++ Freqency Body Gyroscope  Magnitude -mean Freqency q()
++ Freqency Body Gyroscope Jerk Magnitude -mean()
++ Freqency Body Gyroscope Jerk Magnitude -std()
++ Freqency Body Gyroscope Jerk Magnitude -mean Freqency q()
 + angle( Time Body Accelerometer Mean,gravity)
 + angle( Time Body Accelerometer Jerk Mean),gravityMean)
 + angle( Time Body Gyroscope Mean,gravityMean)
